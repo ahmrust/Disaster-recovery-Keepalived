@@ -30,15 +30,7 @@
 На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
 
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-При необходимости прикрепитe сюда скриншоты
+``````
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/1.png)
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/2.png)
 
