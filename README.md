@@ -34,7 +34,7 @@
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/2.png)
 
 ````
-```
+
 
 ### Задание 2
 Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного файла.
@@ -45,7 +45,7 @@
 
 
 ````
-```
+
 Поле для вставки кода...
 #!/bin/bash
 
@@ -75,6 +75,8 @@ fi
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/3.png)
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/4.png)
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/5.png)
+
+````
 ---
 ``````
 
