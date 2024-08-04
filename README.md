@@ -33,8 +33,8 @@
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/1.png)
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/2.png)
 
-`````
----
+````
+```
 
 ### Задание 2
 Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного файла.
@@ -44,7 +44,8 @@
 На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
 
-`````
+````
+```
 Поле для вставки кода...
 #!/bin/bash
 
@@ -68,6 +69,7 @@ else
 echo "Файл index.html не существует в root-директории веб-сервера $server"
 fi
 
+```
 ....
 ``````
 
