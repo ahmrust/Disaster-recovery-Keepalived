@@ -29,7 +29,7 @@
 Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
-`
+
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/1.png)
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/2.png)
 
@@ -44,7 +44,7 @@
 На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
 
-```
+`````
 Поле для вставки кода...
 #!/bin/bash
 
@@ -69,15 +69,13 @@ echo "Файл index.html не существует в root-директории
 fi
 
 ....
-....
-....
-```
+``````
 
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/3.png)
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/4.png)
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/5.png)
 ---
-
+``````
 
 ### Дополнительные задания со звёздочкой*
 Эти задания дополнительные. Их можно не выполнять. На зачёт это не повлияет. Вы можете их выполнить, если хотите глубже разобраться в материале.
