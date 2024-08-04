@@ -69,9 +69,8 @@ else
 echo "Файл index.html не существует в root-директории веб-сервера $server"
 fi
 
+````
 ```
-....
-``````
 
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/3.png)
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/4.png)
