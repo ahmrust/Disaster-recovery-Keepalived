@@ -43,6 +43,7 @@
 
 
 Поле для вставки кода...
+``````
 #!/bin/bash
 
 # Параметры веб-сервера
@@ -64,13 +65,12 @@ echo "Файл index.html существует в root-директории ве
 else
 echo "Файл index.html не существует в root-директории веб-сервера $server"
 fi
-
+```````
 
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/3.png)
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/4.png)
 ![alt text](https://github.com/ahmrust/Disaster-recovery-Keepalived/blob/main/img/5.png)
 
-``````
 
 ### Дополнительные задания со звёздочкой*
 Эти задания дополнительные. Их можно не выполнять. На зачёт это не повлияет. Вы можете их выполнить, если хотите глубже разобраться в материале.
